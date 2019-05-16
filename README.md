@@ -15,4 +15,4 @@ You might have to transform the API calls to match the API used.
 
 Absolutely no warranty, made for fun.
 
-Want to contact me? [find me on telegram](www.t.me/indeksi)
+Want to contact me? [find me on telegram](https://www.t.me/indeksi)
